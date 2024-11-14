@@ -1,5 +1,5 @@
 ## Hi there 👋
-😄I'm currently a computer engineering science😄
+😄I'm currently a computer engineering student😄
 
 <!--
 **SrrBluee/SrrBluee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
